@@ -214,6 +214,12 @@ github repo
 
 * Abuhasan Mubaraq, (https://github.com/muubaraq)
 * Israel Adenuga, (https://github.com/adexino0606) 
+* MJ Johnson, @mj31508
+* David John Coleman II, davidjohncoleman.com | @djohncoleman
+* Kimberly Wong, kjowong | @kjowong | kjowong@gmail.com
+* Carrie Ybay, hicarrie | @hicarrie_
+* Jared Heck, jarehec | @jarehec
+
 ## License
 
 MIT License

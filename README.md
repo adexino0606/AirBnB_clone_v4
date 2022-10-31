@@ -212,8 +212,8 @@ github repo
 
 ## Authors
 
-* Abuhasan Mubaraq, [@mj31508](https://github.com/muubaraq)
-* Israel Adenuga, [kjowong](https://github.com/adexino0606) 
+* Abuhasan Mubaraq, (https://github.com/muubaraq)
+* Israel Adenuga, (https://github.com/adexino0606) 
 ## License
 
 MIT License
